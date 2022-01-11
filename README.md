@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first real project with The Odin Project. I'm gonna build a basic recipe website. The website consists of a main index page which will have links to a few recipes. It won't look pretty. 
