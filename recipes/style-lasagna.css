@@ -1,0 +1,24 @@
+* {
+    background-color: beige;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.lasagna {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.para {
+    font-size: 18px;
+}
+
+li {
+    font-size: 17px;
+    background-color: bisque;
+}
