@@ -1,0 +1,17 @@
+* {
+    background-color: beige;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.header,
+.para {
+    text-align: center;
+}
+
+.header {
+    color: rgb(31, 54, 156);
+}
+
+li {
+    font-size: 20px;
+}
